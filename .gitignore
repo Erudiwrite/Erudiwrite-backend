@@ -1,3 +1,5 @@
-node_modules
-logs
+#dependancies
+/node_modules
+
+# secret
 .env
